@@ -13,8 +13,6 @@ export default function HomePage() {
             <title>Document</title>
         </head>
         <body>
-          <BrowserRouter>
-          <Switch>
             <div class="v2_2">
                 <span class="v2_3">For Better</span>
                 <span class="v2_4">Free and online professional mental health pre-diagnosis</span>
@@ -25,10 +23,10 @@ export default function HomePage() {
                 <div class="v2_37"></div>
                 <div class="v2_38"></div>
                 <div class="name"></div>
-                <span class="v2_54">My Dashboard</span>
+                <span class="v2_54"><a href="/dashboard">My Dashboard</a></span>
                 <div class="v2_56"></div>
                 <span class="v2_57">How it works</span>
-                <span class="v2_58">Interview</span>
+                <span class="v2_58"><a href="/interview">Interview</a></span>
                 <span class="v2_59">Diagnosis</span>
                 <span class="v2_60">Referrals</span>
                 <div class="v2_65"></div>
@@ -39,8 +37,6 @@ export default function HomePage() {
                 <span class="v2_72">Within seconds, you will recieve a diagnosis with a high percentage of accuracy</span>
                 <span class="v2_73">Our dashboard will then recommend you referrals based on location and user ratings</span>
             </div>
-            </Switch>
-            </BrowserRouter>
         </body>
     </html>
     

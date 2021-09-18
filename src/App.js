@@ -33,7 +33,7 @@ function App() {
           <Route path="/results">
             <Results />
           </Route>
-          <Route path="/anxiety">
+          <Route path="/interview">
             <AnxietyInterview />
           </Route>
         </Switch>
