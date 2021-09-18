@@ -19,7 +19,7 @@ function App() {
     <div className="wrapper">
       <BrowserRouter>
         <Switch>
-          <Route path = "/">
+          <Route exact path = "/">
             <HomePage />
           </Route>
           <Route path="/home">
