@@ -6,7 +6,7 @@ import HomePage from './components/Home/HomePage';
 import Login from './components/Login/Login';
 import Preferences from './components/Preferences/Preferences';
 import Results from './components/Results/Results';
-import AnxietyInterview from './components/AnxietyInterview/AnxietyInterview';
+import AnxietyInterview from './components/AnxietyInterview/AnxietyInterview'
 import useToken from './useToken';
 
 function App() {
@@ -33,7 +33,7 @@ function App() {
           <Route path="/results">
             <Results />
           </Route>
-          <Route path="/interview">
+          <Route path="/anxiety">
             <AnxietyInterview />
           </Route>
         </Switch>
