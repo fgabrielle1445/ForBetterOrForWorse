@@ -1,5 +1,6 @@
 import React from 'react';
 import './HomePage.css';
+import { BrowserRouter, Route, Switch } from 'react-router-dom';
 
 export default function HomePage() {
   return(
@@ -12,6 +13,8 @@ export default function HomePage() {
             <title>Document</title>
         </head>
         <body>
+          <BrowserRouter>
+          <Switch>
             <div class="v2_2">
                 <span class="v2_3">For Better</span>
                 <span class="v2_4">Free and online professional mental health pre-diagnosis</span>
@@ -36,6 +39,8 @@ export default function HomePage() {
                 <span class="v2_72">Within seconds, you will recieve a diagnosis with a high percentage of accuracy</span>
                 <span class="v2_73">Our dashboard will then recommend you referrals based on location and user ratings</span>
             </div>
+            </Switch>
+            </BrowserRouter>
         </body>
     </html>
     
