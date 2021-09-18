@@ -5,6 +5,7 @@ import Dashboard from './components/Dashboard/Dashboard';
 import HomePage from './components/Home/HomePage';
 import Login from './components/Login/Login';
 import Preferences from './components/Preferences/Preferences';
+import Results from './components/Results/Results';
 import useToken from './useToken';
 
 function App() {
@@ -30,6 +31,9 @@ function App() {
           </Route>
           <Route path="/preferences">
             <Preferences />
+          </Route>
+          <Route path="/results">
+            <Results />
           </Route>
         </Switch>
       </BrowserRouter>
