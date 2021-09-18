@@ -20,7 +20,7 @@ function App() {
       <h1>Application</h1>
       <BrowserRouter>
         <Switch>
-          <Route path="/">
+          <Route path="/home">
             <HomePage />
           </Route>
           <Route path="/dashboard">
