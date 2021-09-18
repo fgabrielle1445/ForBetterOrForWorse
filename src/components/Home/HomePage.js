@@ -28,7 +28,7 @@ export default function HomePage() {
                 <span class="v2_57">How it works</span>
                 <span class="v2_58"><a href="/interview">Interview</a></span>
                 <span class="v2_59"><a href="/results">Diagnosis</a></span>
-                <span class="v2_60">Referrals</span>
+                <span class="v2_60"><a href="/referrals">Referrals</a></span>
                 <div class="v2_65"></div>
                 <div class="v2_66"></div>
                 <div class="v2_69"></div>

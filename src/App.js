@@ -36,6 +36,9 @@ function App() {
           <Route path="/interview">
             <AnxietyInterview />
           </Route>
+          <Route path="/referrals">
+            <Referrals />
+          </Route>
         </Switch>
       </BrowserRouter>
     </div>
