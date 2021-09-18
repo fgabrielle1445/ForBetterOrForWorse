@@ -1,6 +1,7 @@
 import React from 'react';
 import { BrowserRouter, Route, Switch } from 'react-router-dom';
 import './App.css';
+import Referrals from './components/Referrals/Referrals';
 import Dashboard from './components/Dashboard/Dashboard';
 import HomePage from './components/Home/HomePage';
 import Login from './components/Login/Login';
