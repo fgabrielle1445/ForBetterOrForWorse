@@ -71,7 +71,7 @@
   .v2_37 {
     width: 521px;
     height: 293px;
-    background: url("../images/v2_37.png");
+    background: url("./images/v2_37.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -84,7 +84,7 @@
   .v2_38 {
     width: 48px;
     height: 48px;
-    background: url("../images/v2_38.png");
+    background: url("./images/v2_38.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -170,7 +170,7 @@
   .v2_65 {
     width: 130px;
     height: 130px;
-    background: url("../images/v2_65.png");
+    background: url("./images/v2_65.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -183,7 +183,7 @@
   .v2_66 {
     width: 130px;
     height: 130px;
-    background: url("../images/v2_66.png");
+    background: url("./images/v2_66.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -196,7 +196,7 @@
   .v2_69 {
     width: 130px;
     height: 130px;
-    background: url("../images/v2_69.png");
+    background: url("./images/v2_69.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -309,7 +309,7 @@
   .v2_37 {
     width: 521px;
     height: 293px;
-    background: url("../images/v2_37.png");
+    background: url("./images/v2_37.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -322,7 +322,7 @@
   .v2_38 {
     width: 48px;
     height: 48px;
-    background: url("../images/v2_38.png");
+    background: url("./images/v2_38.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -408,7 +408,7 @@
   .v2_65 {
     width: 130px;
     height: 130px;
-    background: url("../images/v2_65.png");
+    background: url("./images/v2_65.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -421,7 +421,7 @@
   .v2_66 {
     width: 130px;
     height: 130px;
-    background: url("../images/v2_66.png");
+    background: url("./images/v2_66.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -434,7 +434,7 @@
   .v2_69 {
     width: 130px;
     height: 130px;
-    background: url("../images/v2_69.png");
+    background: url("./images/v2_69.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -520,7 +520,7 @@
   .v2_100 {
     width: 100px;
     height: 100px;
-    background: url("../images/v2_100.png");
+    /* background: url("./images/v2_100.png"); */
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -561,7 +561,7 @@
   .v2_2085 {
     width: 48px;
     height: 48px;
-    background: url("../images/v2_2085.png");
+    background: url("./images/v2_2085.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -599,7 +599,7 @@
   .v2_2093 {
     width: 100px;
     height: 100px;
-    background: url("../images/v2_2093.png");
+    /* background: url("./images/v2_2093.png"); */
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -612,7 +612,7 @@
   .v2_2094 {
     width: 48px;
     height: 48px;
-    background: url("../images/v2_2094.png");
+    background: url("./images/v2_2094.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -673,7 +673,7 @@
   .v15_253 {
     width: 21px;
     height: 17px;
-    background: url("../images/v15_253.png");
+    /* background: url("./images/v15_253.png"); */
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -686,7 +686,7 @@
   .v15_254 {
     width: 21px;
     height: 17px;
-    background: url("../images/v15_254.png");
+    /* background: url("./images/v15_254.png"); */
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -708,7 +708,7 @@
   .v15_256 {
     width: 12px;
     height: 23px;
-    background: url("../images/v15_256.png");
+    /* background: url("./images/v15_256.png"); */
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -721,7 +721,7 @@
   .v15_257 {
     width: 12px;
     height: 23px;
-    background: url("../images/v15_257.png");
+    /* background: url("./images/v15_257.png"); */
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -755,7 +755,7 @@
   .v15_281 {
     width: 729px;
     height: 411px;
-    background: url("../images/v15_281.png");
+    background: url("./images/v15_281.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -778,7 +778,7 @@
   .v15_283 {
     width: 33px;
     height: 15px;
-    background: url("../images/v15_283.png");
+    /* background: url("./images/v15_283.png"); */
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -791,7 +791,7 @@
   .v15_284 {
     width: 33px;
     height: 15px;
-    background: url("../images/v15_284.png");
+    /* background: url("./images/v15_284.png"); */
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -862,7 +862,7 @@
   .v16_191 {
     width: 100px;
     height: 100px;
-    background: url("../images/v16_191.png");
+    /* background: url("./images/v16_191.png"); */
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -875,7 +875,7 @@
   .v16_192 {
     width: 48px;
     height: 48px;
-    background: url("../images/v16_192.png");
+    background: url("./images/v16_192.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -900,7 +900,7 @@
   .v16_197 {
     width: 380px;
     height: 401px;
-    background: url("../images/v16_197.png");
+    background: url("./images/v16_197.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -960,7 +960,7 @@
   .v2_100 {
     width: 100px;
     height: 100px;
-    background: url("../images/v2_100.png");
+    /* background: url("./images/v2_100.png"); */
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -1001,7 +1001,7 @@
   .v2_2085 {
     width: 48px;
     height: 48px;
-    background: url("../images/v2_2085.png");
+    background: url("./images/v2_2085.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
