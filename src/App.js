@@ -4,19 +4,11 @@ import './App.css';
 import Dashboard from './components/Dashboard/Dashboard';
 import Login from './components/Login/Login';
 import Preferences from './components/Preferences/Preferences';
-
-function setToken(userToken) {
-  sessionStorage.setItem('token', JSON.stringify(userToken));
-}
-
-function getToken() {
-  const tokenString = sessionStorage.getItem('token');
-  const userToken = JSON.parse(tokenString);
-  return userToken?.token
-}
+import useToken from './useToken';
 
 function App() {
-  const token = getToken();
+
+  const { token, setToken } = useToken();
 
   if(!token) {
     return <Login setToken={setToken} />
@@ -24,7 +16,17 @@ function App() {
 
   return (
     <div className="wrapper">
-      ...
+      <h1>Application</h1>
+      <BrowserRouter>
+        <Switch>
+          <Route path="/dashboard">
+            <Dashboard />
+          </Route>
+          <Route path="/preferences">
+            <Preferences />
+          </Route>
+        </Switch>
+      </BrowserRouter>
     </div>
   );
 }
