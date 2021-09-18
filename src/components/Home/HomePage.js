@@ -110,7 +110,7 @@ export default function HomePage() {
                 <div class="v16_192"></div>
                 <span class="v16_195">Results</span>
                 <div class="v16_197"></div>
-                <span class="v16_198">Your anxiety diagnostic test rervealed that you
+                <span class="v16_198">Your anxiety diagnostic test revealed that you
     are likely to have anxiety. This diagnosis is
     not meant to be an official medical diagnosis 
     but instead meant to provide you with more
