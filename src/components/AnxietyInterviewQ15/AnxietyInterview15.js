@@ -42,6 +42,7 @@ export default function AnxietyInterviewQ15() {
                 </div>
             </div>
             <span class="v15_301"><a href='https://tubbyelegantcomputationalscience--benearles.repl.co/'>Final Survey!</a></span>
+            <span class="v15_302"><a href='/results'>Results</a></span>
             <span class="v15_309">Record Answer</span>
         </div>
     </body>
