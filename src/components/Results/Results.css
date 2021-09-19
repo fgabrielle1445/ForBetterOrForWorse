@@ -42,6 +42,18 @@
     left: 1298px;
     overflow: hidden;
   }
+  .back_link {
+    width: 282px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 40px;
+    left: -43px;
+    font-family: Avenir;
+    font-weight: Roman;
+    font-size: 24px;
+    opacity: 1;
+    text-align: center;
+  }
   .v16_192 {
     width: 48px;
     height: 48px;

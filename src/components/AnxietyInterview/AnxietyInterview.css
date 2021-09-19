@@ -4,6 +4,18 @@
   body {
     font-size: 14px;
   }
+  .back_link {
+    width: 282px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 40px;
+    left: -43px;
+    font-family: Avenir;
+    font-weight: Roman;
+    font-size: 24px;
+    opacity: 1;
+    text-align: center;
+  }
   .v2_2087 {
     width: 100%;
     height: 1200px;
