@@ -38,7 +38,7 @@ function App() {
             <AnxietyInterview />
           </Route>
           <Route path="/referrals">
-            <Referrals />
+            <HomePage />
           </Route>
         </Switch>
       </BrowserRouter>
