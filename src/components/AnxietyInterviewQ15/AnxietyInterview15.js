@@ -41,7 +41,7 @@ export default function AnxietyInterviewQ15() {
                     </div>
                 </div>
             </div>
-            <span class="v15_301">Next Question</span>
+            <span class="v15_301"><a href='/results'>Results</a></span>
             <span class="v15_309">Record Answer</span>
         </div>
     </body>
