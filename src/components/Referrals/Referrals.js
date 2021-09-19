@@ -3,8 +3,8 @@ import './Referrals.css';
 
 export default function Referrals() {
   return(
-      <html>
-          <h2>Where the google maps api for referrals will go</h2>
+    <html>
+      <h2>Ability to display available therapists in your area coming soon!</h2>
       </html>
   );
 }
