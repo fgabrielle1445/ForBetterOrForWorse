@@ -1,7 +1,7 @@
 import React from 'react';
-import './AnxietyInterview2.css';
+import './AnxietyInterview5.css';
 
-export default function AnxietyInterviewQ2() {
+export default function AnxietyInterviewQ5() {
   return(
     <html>
     <head>
@@ -41,7 +41,7 @@ export default function AnxietyInterviewQ2() {
                     </div>
                 </div>
             </div>
-            <span class="v15_301">Next Question</span>
+            <span class="v15_301"><a href='/interview6'>Next Question</a></span>
             <span class="v15_309">Record Answer</span>
         </div>
     </body>

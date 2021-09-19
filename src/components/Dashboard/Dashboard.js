@@ -15,7 +15,7 @@ export default function Dashboard() {
         <span class="v2_81">Welcome User</span>
         <div class="v2_100"></div><div class="v2_101"></div>
         <span class="v2_102">Ugit</span><div class="name"></div>
-        <div class="back_link">hah</div>
+        <div class="back_link"><a href='/home'>F</a></div>
         <div class="name"></div><div class="v2_2085"></div></div>
       </body>
       </html>

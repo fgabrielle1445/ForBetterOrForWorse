@@ -1,7 +1,7 @@
 import React from 'react';
-import './AnxietyInterview2.css';
+import './AnxietyInterview9.css';
 
-export default function AnxietyInterviewQ2() {
+export default function AnxietyInterviewQ9() {
   return(
     <html>
     <head>
