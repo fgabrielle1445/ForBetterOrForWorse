@@ -8,6 +8,8 @@ import Login from './components/Login/Login';
 import Preferences from './components/Preferences/Preferences';
 import Results from './components/Results/Results';
 import AnxietyInterview from './components/AnxietyInterview/AnxietyInterview'
+import AnxietyInterviewQ2 from './components/AnxietyInterviewQ2/AnxietyInterview2'
+
 import useToken from './useToken';
 
 function App() {
@@ -38,7 +40,10 @@ function App() {
             <AnxietyInterview />
           </Route>
           <Route path="/referrals">
-            <HomePage />
+            <Referrals />
+          </Route>
+          <Route path="/interview2">
+            <AnxietyInterviewQ2 />
           </Route>
         </Switch>
       </BrowserRouter>
