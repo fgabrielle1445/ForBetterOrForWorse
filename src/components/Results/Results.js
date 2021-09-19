@@ -14,7 +14,7 @@ export default function Results() {
                 <div class="name"></div>
                 <span class="v16_190"><a href='/dashboard'>My Dashboard</a></span>
                 <div class="v16_191"></div>
-                <div class="back_link">hah</div>
+                <div class="back_link"><a href='/'>home</a></div>
                 <div class="v16_192"></div>
                 <span class="v16_195">Results</span>
                 <div class="v16_197"></div>
