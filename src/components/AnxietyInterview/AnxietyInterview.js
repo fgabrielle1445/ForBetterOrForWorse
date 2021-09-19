@@ -40,7 +40,7 @@ export default function AnxietyInterview() {
                     </div>
                 </div>
             </div>
-            <span class="v15_301">Next Question</span>
+            <span class="v15_301"><a href="/interview2">Next Question</a></span>
             <span class="v15_309">Record Answer</span>
         </div>
     </body>

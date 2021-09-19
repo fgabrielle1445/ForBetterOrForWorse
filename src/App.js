@@ -7,8 +7,9 @@ import HomePage from './components/Home/HomePage';
 import Login from './components/Login/Login';
 import Preferences from './components/Preferences/Preferences';
 import Results from './components/Results/Results';
-import AnxietyInterview from './components/AnxietyInterview/AnxietyInterview'
-import AnxietyInterviewQ2 from './components/AnxietyInterviewQ2/AnxietyInterview2'
+import AnxietyInterview from './components/AnxietyInterview/AnxietyInterview';
+import AnxietyInterviewQ2 from './components/AnxietyInterviewQ2/AnxietyInterview2';
+import AnxietyInterviewQ3 from './components/AnxietyInterviewQ3/AnxietyInterview3';
 
 import useToken from './useToken';
 
@@ -44,6 +45,9 @@ function App() {
           </Route>
           <Route path="/interview2">
             <AnxietyInterviewQ2 />
+          </Route>
+          <Route path="/interview3">
+            <AnxietyInterviewQ3 />
           </Route>
         </Switch>
       </BrowserRouter>
