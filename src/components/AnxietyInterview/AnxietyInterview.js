@@ -34,7 +34,7 @@ export default function AnxietyInterview() {
                 </div>
             </div>
             <span class="v15_275">00:00:00</span>
-                <object data='https://www.youtube.com/embed/7mIcvARIA-M' 
+                <object class="v15_281" data='https://www.youtube.com/embed/7mIcvARIA-M' 
                     width='560px' height='315px'>
                 </object>
             <div class="v15_282">
