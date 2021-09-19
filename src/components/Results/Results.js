@@ -12,7 +12,7 @@ export default function Results() {
       <body>
       <div class="v16_188">
                 <div class="name"></div>
-                <span class="v16_190">My Dashboard</span>
+                <span class="v16_190"><a href='/dashboard'>My Dashboard</a></span>
                 <div class="v16_191"></div>
                 <div class="back_link">hah</div>
                 <div class="v16_192"></div>

@@ -22,6 +22,7 @@ import AnxietyInterviewQ12 from './components/AnxietyInterviewQ12/AnxietyIntervi
 import AnxietyInterviewQ13 from './components/AnxietyInterviewQ13/AnxietyInterview13';
 import AnxietyInterviewQ14 from './components/AnxietyInterviewQ14/AnxietyInterview14';
 import AnxietyInterviewQ15 from './components/AnxietyInterviewQ15/AnxietyInterview15';
+import AnxietyInterviewQ16 from './components/AnxietyInterviewQ16/AnxietyInterview16';
 
 import useToken from './useToken';
 
@@ -99,6 +100,9 @@ function App() {
           </Route>
           <Route path="/interview15">
             <AnxietyInterviewQ15 />
+          </Route>
+          <Route path="/interview16">
+            <AnxietyInterviewQ16 />
           </Route>
         </Switch>
       </BrowserRouter>

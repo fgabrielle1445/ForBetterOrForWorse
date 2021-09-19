@@ -33,8 +33,9 @@ export default function AnxietyInterviewQ6() {
                 </div>
             </div>
             <span class="v15_275">00:00:00</span>
-            <div class="v15_281"></div>
-            <div class="v15_282">
+            <object class="v15_281" data='https://www.youtube.com/embed/4kytaB8bBwA' 
+                    width='560px' height='315px'>
+                </object>              <div class="v15_282">
                 <div class="v15_283">
                     <div class="v15_284">
                         <div class="v15_285"></div>
